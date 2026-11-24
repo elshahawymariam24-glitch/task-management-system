@@ -1,0 +1,1 @@
+\# Task Management System\## DescriptionA simple Python program that displays a to-do list, showing each task's title, priority, and completion status.\## How to Run1\. Open a terminal inside the project folder (`task-management-system`).2\. Run the program using Python:&#x20;  ```bash&#x20;  python main.py\## AuthorMariam Elshahawy 
